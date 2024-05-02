@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "airdropfind": "^1.1.6",
+    "mdnp": "^1.1.4"
+  },
+  "name": "airdropfind",
+  "version": "1.1.6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deeno-KRW/whenjepeh-krw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deeno-KRW/whenjepeh-krw/issues"
+  },
+  "homepage": "https://github.com/Deeno-KRW/whenjepeh-krw#readme",
+  "devDependencies": {},
+  "description": ""
+}
